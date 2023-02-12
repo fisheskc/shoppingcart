@@ -1,0 +1,67 @@
+body {
+    background-color: #f2deb5;
+}
+
+h1 {
+    color:#197248;  
+    font-size: 2.25em;
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+    margin-left: 0.75em;
+}
+
+h2 {
+    color:#197248;   
+    font-size: 1.75em;
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+    margin-left: 0.75em;
+}
+
+.order-id  {
+    color: #0b3d26; 
+    margin-right: 2em;
+    font-size: 1.5em;
+}
+
+li .product-name {
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+    color: #890808; 
+    width: 40%; 
+    display: inline-block;
+}
+
+li .product-price {
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+    color: #890808; 
+    width: 40%; 
+    display: inline-block;
+}
+
+.product-quantity {
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+    color: #890808; 
+    width: 30%; 
+    display: inline-block;
+    margin-bottom: 0.5em;
+}
+
+#total-price {
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+    margin-left: 12em;
+    color: #890808; 
+    font-size: 2em;
+}
+
+li .purchaseItem-name {
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+    color: rgb(17, 0, 255); 
+    width: 40%; 
+    display: inline-block;
+}
+
+li .purchaseItem-price {
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+    color: rgb(17, 0, 255);  
+    width: 40%; 
+    display: inline-block;
+}
+
